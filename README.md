@@ -54,3 +54,7 @@ This project utilizes data provided by AnalystBuilder website to understand the 
     Dakota(0.13%),Mississippi(0.13%) and Wyoming(0.17) EV adoption rate is very low.More Investment,Maintenance and better government policies which encourage EV adoption in States like
     California,Texas,Florida,Washington,New York,District of Columbia,Hawaii etc can improve the EV adoption rate.
 
+📊 Tableau Visualization
+
+    ![Screenshot of tableu visualization](visualization/tableu_viz.png)
+
