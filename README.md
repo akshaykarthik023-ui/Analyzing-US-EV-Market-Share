@@ -49,7 +49,8 @@ This project utilizes data provided by AnalystBuilder website to understand the 
 
 💭Conclusion💭
 
-    This Analysis of the data confirms that Gasoline still is King with an average of 84% per state, and ethanol is the main alternative(7.6%) Followed by HEV(2.3%).EV adoption is still far behind with an average     of only 0.89% per state.California State has the highest EV adoption 3.41% and other big states like Texas,FLorida and New York lag behind.In States like North Dakota(0.13%),Mississippi(0.13%) and 
-    Wyoming(0.17) EV adoption rate is very low.More Investment,Maintenance and better government policies which encourage EV adoption in States like California,Texas,Florida,Washington,New York,District of 
-    Columbia,Hawaii etc can improve the EV adoption rate.
+    This Analysis of the data confirms that Gasoline still is King with an average of 84% per state, and ethanol is the main alternative(7.6%) Followed by HEV(2.3%).EV adoption is still 
+    far behind with an average of only 0.89% per state.California State has the highest EV adoption 3.41% and other big states like Texas,FLorida and New York lag behind.In States like North 
+    Dakota(0.13%),Mississippi(0.13%) and Wyoming(0.17) EV adoption rate is very low.More Investment,Maintenance and better government policies which encourage EV adoption in States like
+    California,Texas,Florida,Washington,New York,District of Columbia,Hawaii etc can improve the EV adoption rate.
 
