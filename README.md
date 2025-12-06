@@ -56,5 +56,5 @@ This project utilizes data provided by AnalystBuilder website to understand the 
 
 📊 Tableau Visualization
 
-    ![Screenshot of tableu visualization Dashboard](visualization/tableu_viz.png)
+    ![Screenshot of tableu visualization Dashboard](Visualization/tableu_viz.png)
 
