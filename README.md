@@ -56,5 +56,5 @@ This project utilizes data provided by AnalystBuilder website to understand the 
 
 ## 📊 Tableau Visualization
 
-    ![image](<img width="1920" height="1028" alt="Image" src="https://github.com/user-attachments/assets/c4cf079d-023b-485b-a21b-b6f9b3649f30" />)
+    ![image](https://github.com/user-attachments/assets/48ae3eed-2c7c-49ac-b265-2922c7d09eee)
 
