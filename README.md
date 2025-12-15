@@ -1,10 +1,10 @@
-🚗 U.S. EV Market Share Analysis 
+# 🚗 U.S. EV Market Share Analysis 
 
-📘 Project Overview
+## 📘 Project Overview
 
 This project utilizes data provided by AnalystBuilder website to understand the growth and distribution of electric vehicles across united states. The dataset contains vehicle registration counts for multiple fuel types (EV, PHEV, HEV, gasoline, diesel, etc.) by state.I analysed vehicle registration data from all 51 states using Excel and MYSQL and visualized the key findings using Tablue.
 
-🎯 Objectives
+## 🎯 Objectives
 
 1. What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline?
 2. Which states have the highest EV adoption rates, and which states lag behind?
@@ -12,14 +12,14 @@ This project utilizes data provided by AnalystBuilder website to understand the 
 4. Compare EV adoption in California vs. other large states (e.g., Texas, Florida, New York).
 5. Where should policymakers prioritize EV infrastructure investment based on adoption trends and gaps in support?
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-* Data cleaning and Standardization
-* Percentage calculations and aggregation
-* Conditional and Comparative analysis
-* Data visualization
+- Data cleaning and Standardization
+- Percentage calculations and aggregation
+- Conditional and Comparative analysis
+- Data visualization
 
-🔍 Key Analyses
+## 🔍 Key Analyses
 
 1. What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline?
 
@@ -47,14 +47,14 @@ This project utilizes data provided by AnalystBuilder website to understand the 
     In California where the EV adoption rate is 3.42% the aim should be to maintain and expand the already matured EV market.Also In other top States like District of Columbia,Hawaii and Washington where the EV       adoption rate is above 2% requires more investment to make owning EV cars reliable,convenient and more economical.Also in highly populated and density areas more convenient infrastructures should be provided
     so that people can buy EV with trust.In big cities like Florida(1.37%),Texas(0.89%),New York(1.16%) might have gap in support that's may be the reason why they are lagging behind in EV adoption rate,so            policymakers can give more focus on these cities.
 
-💭Conclusion💭
+## 💭Conclusion💭
 
     This Analysis of the data confirms that Gasoline still is King with an average of 84% per state, and ethanol is the main alternative(7.6%) Followed by HEV(2.3%).EV adoption is still 
     far behind with an average of only 0.89% per state.California State has the highest EV adoption 3.41% and other big states like Texas,FLorida and New York lag behind.In States like North 
     Dakota(0.13%),Mississippi(0.13%) and Wyoming(0.17) EV adoption rate is very low.More Investment,Maintenance and better government policies which encourage EV adoption in States like
     California,Texas,Florida,Washington,New York,District of Columbia,Hawaii etc can improve the EV adoption rate.
 
-📊 Tableau Visualization
+## 📊 Tableau Visualization
 
     ![Screenshot of tableu visualization Dashboard](Visualization/tableu_viz.png)
 
