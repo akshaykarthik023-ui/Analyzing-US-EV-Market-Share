@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This project utilizes data provided by AnalystBuilder website to understand the growth and distribution of electric vehicles across united states. The dataset contains vehicle registration counts for multiple fuel types (EV, PHEV, HEV, gasoline, diesel, etc.) by state.I analysed vehicle registration data from all 51 states using Excel and MYSQL and visualized the key findings using Tablue.
+This project utilizes data provided by AnalystBuilder website to understand the growth and distribution of electric vehicles across united states. The dataset contains vehicle registration counts for multiple fuel types (EV, PHEV, HEV, gasoline, diesel, etc.) by state.I analysed vehicle registration data from all 51 states using Excel and MYSQL and visualized the key findings using Tableau.
 
 ## 🎯 Objectives
 
